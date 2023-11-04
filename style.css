@@ -15,15 +15,18 @@ body {
   flex-direction: column;
   color: #00adb5;
 }
+.container-body{
+  margin-top: 50px;
+}
 .boxes {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-  border-radius: 20px;
+  border-radius: 5%;
   width: 900px;
   height: 550px;
   background: #393e46;
-  box-shadow: 5px 5px 100px;
+  box-shadow: 5px 5px 150px;
 }
 .box {
   height: 80%;
@@ -31,7 +34,7 @@ body {
   background: #eeeeee;
   border-radius: 20px;
   color: #222831;
-  transition: transform 1000ms;
+  transition: transform 700ms;
 }
 .img {
   width: 100%;
