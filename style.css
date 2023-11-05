@@ -61,7 +61,7 @@ body {
   color: #f1efef;
 }
 .box:hover {
-  transform: rotate(0) scale(1.175) translateZ(0);
+  transform: rotate(0) scale(1.1) translateZ(0);
   transition: transform 1000ms;
   box-shadow: 5px 5px 15px #00adb5;
 }
